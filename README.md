@@ -10,7 +10,7 @@ Los estudiantes trabajarán en equipo, utilizando ramas, commits, Pull Requests 
 3. Implementa la parte del proyecto que te fue asignada (modelo, repositorio, UI, etc.).
 4. Haz commits pequeños y descriptivos de tus cambios.
 5. Abre un Pull Request (PR) hacia la rama `develop`. Otro compañero debe revisarlo antes de hacer merge.
-6. Una vez que todas las *features* estén integradas en `develop`, el equipo debe abrir un PR final hacia `main` del repositorio original.
+6. Una vez que todas las *features* esté`n integradas en `develop`, el equipo debe abrir un PR final hacia `main` del repositorio original.
 7. El repositorio debe incluir:
     - Capturas de pantalla de la app corriendo (lista y detalle).
     - Evidencias de los PRs y revisiones de código.
